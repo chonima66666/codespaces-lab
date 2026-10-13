@@ -1,0 +1,12 @@
+{
+  "git.postCommitCommand": "none",
+  "git.rememberPostCommitCommand": false,
+  "git.enableSmartCommit": false,
+  "git.showActionButton": {
+    "commit": true,
+    "publish": false,
+    "sync": false
+  },
+  "git.confirmSync": true,
+  "git.autofetch": true
+}
